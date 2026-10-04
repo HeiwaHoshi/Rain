@@ -1,5 +1,5 @@
 {
-  "name": "Red Amoled Heiwa",
+  "name": "Red Amoled da Heiwa",
   "description": "Clean, midnight-purple aesthetic",
   "version": "1",
   "authors": [
